@@ -1,11 +1,12 @@
 ### Hi there 👋
+[![abelahce's 42 stats](https://badge.mediaplus.ma/water/abelahce)](https://github.com/oakoudad/badge42)
 
 <!--
 **scayho/scayho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![abelahce's 42 stats](https://badge.mediaplus.ma/water/abelahce)](https://github.com/oakoudad/badge42)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
